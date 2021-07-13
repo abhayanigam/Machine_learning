@@ -1,0 +1,43 @@
+(base) C:\Users\UserName>conda install -c conda-forge jupyterthemes
+
+(base) C:\Users\UserName>jt -l
+Available Themes:
+   chesterish
+   grade3
+   gruvboxd
+   gruvboxl
+   monokai
+   oceans16
+   onedork
+   solarizedd
+   solarizedl
+
+(base) C:\Users\UserName>jt -t chesterish
+
+(base) C:\Users\UserName>jt -t grade3
+
+(base) C:\Users\UserName>jt -t gruvboxl
+
+(base) C:\Users\UserName>jt -t  monokai
+
+(base) C:\Users\UserName>jt -t oceans16
+
+(base) C:\Users\UserName>jt -t onedork
+
+(base) C:\Users\UserName>jt -t solarizedd
+
+(base) C:\Users\UserName>jt -t  monokai
+
+(base) C:\Users\UserName>jt -t solarizedd -T
+
+(base) C:\Users\UserName>jt -t monokai -T
+
+(base) C:\Users\UserName>jt -t monokai -T -N
+
+(base) C:\Users\UserName>jt -t monokai -T -N -kl -fs 9
+
+(base) C:\Users\UserName>jt -r
+Reset css and font defaults in:
+
+C:\Users\UserName\.jupyter\custom &
+C:\Users\UserName\AppData\Roaming\jupyter\nbextensions
